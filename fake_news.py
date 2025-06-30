@@ -41,7 +41,7 @@ while True: #this loop will go on until user say N/n to stop
             subject = random.choice(bollywood)
             action = random.choice(b)
             place = random.choice(bp)
-            print(f"Fake new's headline on Poltic's is :- {subject} {action} {place} ")
+            print(f"Fake new's headline on Bollywood is :- {subject} {action} {place} ")
         
         else:
             print("Choose Correctly, TRY again")
