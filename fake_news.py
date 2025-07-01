@@ -41,7 +41,11 @@ while True: #this loop will go on until user say N/n to stop
             subject = random.choice(bollywood)
             action = random.choice(b)
             place = random.choice(bp)
+<<<<<<< HEAD
             print(f"Fake new's headline on Poltic's is :- {subject} {action} {place} ")
+=======
+            print(f"Fake new's headline on Bollywood is :- {subject} {action} {place} ")
+>>>>>>> 3010e3ec39a474fd014ac2db76ab8fd97e8d6b71
         
         else:
             print("Choose Correctly, TRY again")
@@ -53,4 +57,8 @@ while True: #this loop will go on until user say N/n to stop
     
     else:
         print("Please enter y/Y for YES and n/N for NO")
+<<<<<<< HEAD
         
+=======
+        
+>>>>>>> 3010e3ec39a474fd014ac2db76ab8fd97e8d6b71
